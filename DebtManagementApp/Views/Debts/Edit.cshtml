@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model DebtManagementApp.Models.Debt
+
+    <h2>Chỉnh sửa khoản nợ</h2>
+
+    <form asp-action="Edit" method="post">
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" asp-for="CustomerName" />
+        <div class="form-group">
+            <label>Số tiền:</label>
+            <input asp-for="Amount" class="form-control" />
+            <span asp-validation-for="Amount" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label>Hạn thanh toán:</label>
+            <input asp-for="DueDate" type="date" class="form-control" />
+            <span asp-validation-for="DueDate" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label>Trạng thái:</label>
+            <select asp-for="IsPaid" class="form-control">
+                <option value="false">Chưa thanh toán</option>
+                <option value="true">Đã thanh toán</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+    </form>
+    <a class="btn btn-secondary" href="/Debts/Index?customerName=@Model.CustomerName">Quay lại</a>
+
+}

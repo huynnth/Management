@@ -1,0 +1,37 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model IEnumerable<DebtManagementApp.Models.Customer>
+
+    <h2>Danh sách khách hàng</h2>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên</th>
+                <th>Email</th>
+                <th>Số điện thoại</th>
+                <th>Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var customer in Model)
+            {
+                <tr>
+                    <td>@customer.Name</td>
+                    <td>@customer.Email</td>
+                    <td>@customer.Phone</td>
+                    <td>
+                        <a class="btn btn-primary btn-sm" href="Debts?customerName=@customer.Name">Xem công nợ</a>
+                        <a class="btn btn-warning btn-sm" href="/Customers/Edit/@customer.Name">Sửa</a>
+                        <a class="btn btn-danger btn-sm">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a class="btn btn-success" href="/Customers/Create">Thêm khách hàng mới</a>
+
+
+}

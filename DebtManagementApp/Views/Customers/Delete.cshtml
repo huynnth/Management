@@ -1,0 +1,17 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model DebtManagementApp.Models.Customer
+
+<h2>Xóa khách hàng</h2>
+
+<p>Bạn có chắc chắn muốn xóa khách hàng <b>@Model.Name</b> không?</p>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Name" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a href="/Customers/Index" class="btn btn-secondary">Hủy</a>
+</form>
+
+
+

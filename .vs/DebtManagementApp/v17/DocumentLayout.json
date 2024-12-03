@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\controllers\\debtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\controllers\\debtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\models\\debt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\models\\debt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\data\\debtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\data\\debtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\views\\debts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\views\\debts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\views\\debts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\views\\debts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\views\\debts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\views\\debts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Migrations\\20241203142348_UpdateCustomerNameColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DebtManagementApp\\Migrations\\20241203142348_UpdateCustomerNameColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Migrations\\20241203133440_AddDecimalPrecisionForAmount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DebtManagementApp\\Migrations\\20241203133440_AddDecimalPrecisionForAmount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\migrations\\20241201174315_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\migrations\\20241201174315_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|c:\\users\\nguyen van toan\\source\\repos\\debtmanagementapp\\debtmanagementapp\\debtmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9AC4DDEE-4354-4328-94C2-9071FDCF0DA4}|DebtManagementApp\\DebtManagementApp.csproj|solutionrelative:debtmanagementapp\\debtmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DebtsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Controllers\\DebtsController.cs",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Controllers\\DebtsController.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Controllers\\DebtsController.cs",
+              "RelativeToolTip": "DebtManagementApp\\Controllers\\DebtsController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:51:27.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Views\\Debts\\Index.cshtml",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Views\\Debts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Views\\Debts\\Index.cshtml",
+              "RelativeToolTip": "DebtManagementApp\\Views\\Debts\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T18:01:58.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Views\\Debts\\Create.cshtml",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Views\\Debts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Views\\Debts\\Create.cshtml",
+              "RelativeToolTip": "DebtManagementApp\\Views\\Debts\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T18:02:22.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Views\\Debts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Views\\Debts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Views\\Debts\\Edit.cshtml",
+              "RelativeToolTip": "DebtManagementApp\\Views\\Debts\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T18:06:27.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Program.cs",
+              "RelativeToolTip": "DebtManagementApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:38:20.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DebtDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Data\\DebtDbContext.cs",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Data\\DebtDbContext.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Data\\DebtDbContext.cs",
+              "RelativeToolTip": "DebtManagementApp\\Data\\DebtDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:36:32.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Models\\Customer.cs",
+              "RelativeToolTip": "DebtManagementApp\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:39:51.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Debt.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Models\\Debt.cs",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Models\\Debt.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Models\\Debt.cs",
+              "RelativeToolTip": "DebtManagementApp\\Models\\Debt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:41:06.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "DebtManagementApp\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:48:07.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "DebtManagementApp\\Views\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T10:40:11.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "DebtManagementApp\\Views\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T18:05:39.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "DebtManagementApp\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T18:00:40.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "DebtManagementApp\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T18:00:01.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DebtManagementApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\appsettings.json",
+              "RelativeToolTip": "DebtManagementApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T17:31:45.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241203142348_UpdateCustomerNameColumn.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Migrations\\20241203142348_UpdateCustomerNameColumn.cs",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Migrations\\20241203142348_UpdateCustomerNameColumn.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Migrations\\20241203142348_UpdateCustomerNameColumn.cs",
+              "RelativeToolTip": "DebtManagementApp\\Migrations\\20241203142348_UpdateCustomerNameColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:23:50.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241203133440_AddDecimalPrecisionForAmount.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Migrations\\20241203133440_AddDecimalPrecisionForAmount.cs",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Migrations\\20241203133440_AddDecimalPrecisionForAmount.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Migrations\\20241203133440_AddDecimalPrecisionForAmount.cs",
+              "RelativeToolTip": "DebtManagementApp\\Migrations\\20241203133440_AddDecimalPrecisionForAmount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:34:40.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241201174315_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Migrations\\20241201174315_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DebtManagementApp\\Migrations\\20241201174315_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\Migrations\\20241201174315_InitialCreate.cs",
+              "RelativeToolTip": "DebtManagementApp\\Migrations\\20241201174315_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:43:15.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DebtManagementApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp.csproj",
+              "RelativeDocumentMoniker": "DebtManagementApp\\DebtManagementApp.csproj",
+              "ToolTip": "C:\\Users\\Nguyen Van Toan\\source\\repos\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp.csproj",
+              "RelativeToolTip": "DebtManagementApp\\DebtManagementApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T17:35:28.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

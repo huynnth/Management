@@ -1,0 +1,36 @@
+﻿@model IEnumerable<DebtManagementApp.Models.Debt>
+
+<h2>Danh sách công nợ</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Số tiền</th>
+            <th>Hạn thanh toán</th>
+            <th>Tên khách hàng</th>
+            <th>Trạng thái</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var debt in Model)
+        {
+            <tr>
+                <td>@debt.Amount</td>
+                <td>@debt.DueDate.ToString("dd/MM/yyyy")</td>
+                <td>@debt.CustomerName</td>
+                <td>
+                    @(debt.IsPaid ? "Đã thanh toán" : "Chưa thanh toán")
+                </td>
+                <td>
+                    @if (!debt.IsPaid)
+                    {
+                        <a class="btn btn-primary" href="/Debts/MarkAsPaid/@debt.CustomerName">Đánh dấu đã thanh toán</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-success" href="/Debts/Create?customerName=@ViewBag.CustomerName">Thêm khoản nợ mới</a>
+<a class="btn btn-secondary" href="/Customers">Quay lại danh sách khách hàng</a>
