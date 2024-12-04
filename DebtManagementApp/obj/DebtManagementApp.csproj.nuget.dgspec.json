@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Acer\\Downloads\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp.csproj": {}
+    "C:\\Users\\Acer\\Downloads\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Acer\\Downloads\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp.csproj": {
+    "C:\\Users\\Acer\\Downloads\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Acer\\Downloads\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Downloads\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp.csproj",
         "projectName": "DebtManagementApp",
-        "projectPath": "c:\\Users\\Acer\\Downloads\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp.csproj",
+        "projectPath": "C:\\Users\\Acer\\Downloads\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Acer\\Downloads\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Downloads\\DebtManagementApp\\DebtManagementApp\\DebtManagementApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"

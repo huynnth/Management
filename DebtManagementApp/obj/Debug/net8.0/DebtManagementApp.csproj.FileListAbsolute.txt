@@ -335,3 +335,4 @@ c:\Users\Acer\Downloads\DebtManagementApp\DebtManagementApp\DebtManagementApp\ob
 c:\Users\Acer\Downloads\DebtManagementApp\DebtManagementApp\DebtManagementApp\obj\Debug\net8.0\DebtManagementApp.pdb
 c:\Users\Acer\Downloads\DebtManagementApp\DebtManagementApp\DebtManagementApp\obj\Debug\net8.0\DebtManagementApp.genruntimeconfig.cache
 c:\Users\Acer\Downloads\DebtManagementApp\DebtManagementApp\DebtManagementApp\obj\Debug\net8.0\ref\DebtManagementApp.dll
+c:\Users\Acer\Downloads\DebtManagementApp\DebtManagementApp\DebtManagementApp\obj\Debug\net8.0\DebtManagementApp.sourcelink.json
